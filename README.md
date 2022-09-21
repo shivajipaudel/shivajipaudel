@@ -11,9 +11,6 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **CSS**
-
-- ⚡ Fun fact **I think I am Lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
