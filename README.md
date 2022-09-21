@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivaji Poudel</h1>
 <h3 align="center">A passionate software programmer from Nepal</h3>
+<image align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lambdatest.com%2Fnewsletter%2Feditions%2Fissue24&psig=AOvVaw1gyar6AVxGuOYyCojcmBSP&ust=1663861224664000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCND20uucpvoCFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivajipaudel&label=Profile%20views&color=0e75b6&style=flat" alt="shivajipaudel" /> </p>
 
