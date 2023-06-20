@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/paudelshivaji" target="blank"><img src="https://img.shields.io/twitter/follow/paudelshivaji?logo=twitter&style=for-the-badge" alt="paudelshivaji" /></a> </p>
 
-- 🌱 I’m currently learning **Python, SQL, Power BI, and ETL Tools**
+- 🌱 I’m currently learning **Python, SQL**
 
 - 👯 I’m looking to collaborate on **Datasets for Analysis and Visualization projects**
 
